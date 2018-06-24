@@ -1,0 +1,10 @@
+C:\Users\Ti\Desktop\AnToanBaoMatHTTT\AnToanBaoMatHTTT\bin\Debug\AnToanBaoMatHTTT.exe.config
+C:\Users\Ti\Desktop\AnToanBaoMatHTTT\AnToanBaoMatHTTT\obj\Debug\AnToanBaoMatHTTT.csprojResolveAssemblyReference.cache
+C:\Users\Ti\Desktop\AnToanBaoMatHTTT\AnToanBaoMatHTTT\obj\Debug\AnToanBaoMatHTTT.Properties.Resources.resources
+C:\Users\Ti\Desktop\AnToanBaoMatHTTT\AnToanBaoMatHTTT\obj\Debug\AnToanBaoMatHTTT.csproj.GenerateResource.Cache
+C:\Users\Ti\Desktop\AnToanBaoMatHTTT\AnToanBaoMatHTTT\bin\Debug\AnToanBaoMatHTTT.exe
+C:\Users\Ti\Desktop\AnToanBaoMatHTTT\AnToanBaoMatHTTT\bin\Debug\AnToanBaoMatHTTT.pdb
+C:\Users\Ti\Desktop\AnToanBaoMatHTTT\AnToanBaoMatHTTT\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Ti\Desktop\AnToanBaoMatHTTT\AnToanBaoMatHTTT\obj\Debug\QLLH.QuanLyLopHoc.resources
+C:\Users\Ti\Desktop\AnToanBaoMatHTTT\AnToanBaoMatHTTT\obj\Debug\AnToanBaoMatHTTT.exe
+C:\Users\Ti\Desktop\AnToanBaoMatHTTT\AnToanBaoMatHTTT\obj\Debug\AnToanBaoMatHTTT.pdb
