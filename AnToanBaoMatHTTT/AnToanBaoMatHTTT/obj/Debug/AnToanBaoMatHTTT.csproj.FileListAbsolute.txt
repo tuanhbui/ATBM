@@ -8,3 +8,6 @@ C:\Users\Ti\Desktop\AnToanBaoMatHTTT\AnToanBaoMatHTTT\bin\Debug\Oracle.ManagedDa
 C:\Users\Ti\Desktop\AnToanBaoMatHTTT\AnToanBaoMatHTTT\obj\Debug\QLLH.QuanLyLopHoc.resources
 C:\Users\Ti\Desktop\AnToanBaoMatHTTT\AnToanBaoMatHTTT\obj\Debug\AnToanBaoMatHTTT.exe
 C:\Users\Ti\Desktop\AnToanBaoMatHTTT\AnToanBaoMatHTTT\obj\Debug\AnToanBaoMatHTTT.pdb
+D:\GitHub\ATBM\AnToanBaoMatHTTT\AnToanBaoMatHTTT\bin\Debug\AnToanBaoMatHTTT.exe.config
+D:\GitHub\ATBM\AnToanBaoMatHTTT\AnToanBaoMatHTTT\obj\Debug\AnToanBaoMatHTTT.exe
+D:\GitHub\ATBM\AnToanBaoMatHTTT\AnToanBaoMatHTTT\obj\Debug\AnToanBaoMatHTTT.pdb
