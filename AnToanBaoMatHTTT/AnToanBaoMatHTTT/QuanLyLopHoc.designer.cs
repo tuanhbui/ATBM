@@ -30,6 +30,7 @@
         {
             this.tab = new System.Windows.Forms.TabControl();
             this.tab1 = new System.Windows.Forms.TabPage();
+            this.danhsachuserroledg = new System.Windows.Forms.DataGridView();
             this.button1 = new System.Windows.Forms.Button();
             this.timkiemuserrolelbl = new System.Windows.Forms.Label();
             this.timkiemuserroletb = new System.Windows.Forms.TextBox();
@@ -98,9 +99,10 @@
             this.thuquyenuserrb = new System.Windows.Forms.RadioButton();
             this.thuquyenrolerb = new System.Windows.Forms.RadioButton();
             this.tabPage5 = new System.Windows.Forms.TabPage();
-            this.danhsachuserroledg = new System.Windows.Forms.DataGridView();
+            this.button2 = new System.Windows.Forms.Button();
             this.tab.SuspendLayout();
             this.tab1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.danhsachuserroledg)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.danhsachroledg)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.danhsachuserdg)).BeginInit();
             this.tabPage2.SuspendLayout();
@@ -118,7 +120,7 @@
             this.thuquyengb.SuspendLayout();
             this.panel2.SuspendLayout();
             this.doituongcanthuquyengb.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.danhsachuserroledg)).BeginInit();
+            this.tabPage5.SuspendLayout();
             this.SuspendLayout();
             // 
             // tab
@@ -150,6 +152,14 @@
             this.tab1.TabIndex = 0;
             this.tab1.Text = "Danh sách user";
             this.tab1.UseVisualStyleBackColor = true;
+            // 
+            // danhsachuserroledg
+            // 
+            this.danhsachuserroledg.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.danhsachuserroledg.Location = new System.Drawing.Point(293, 40);
+            this.danhsachuserroledg.Name = "danhsachuserroledg";
+            this.danhsachuserroledg.Size = new System.Drawing.Size(204, 335);
+            this.danhsachuserroledg.TabIndex = 5;
             // 
             // button1
             // 
@@ -851,6 +861,7 @@
             // 
             // tabPage5
             // 
+            this.tabPage5.Controls.Add(this.button2);
             this.tabPage5.Location = new System.Drawing.Point(4, 22);
             this.tabPage5.Name = "tabPage5";
             this.tabPage5.Padding = new System.Windows.Forms.Padding(3);
@@ -859,13 +870,14 @@
             this.tabPage5.Text = "Audit";
             this.tabPage5.UseVisualStyleBackColor = true;
             // 
-            // danhsachuserroledg
+            // button2
             // 
-            this.danhsachuserroledg.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.danhsachuserroledg.Location = new System.Drawing.Point(293, 40);
-            this.danhsachuserroledg.Name = "danhsachuserroledg";
-            this.danhsachuserroledg.Size = new System.Drawing.Size(204, 335);
-            this.danhsachuserroledg.TabIndex = 5;
+            this.button2.Location = new System.Drawing.Point(122, 62);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(75, 23);
+            this.button2.TabIndex = 0;
+            this.button2.Text = "button2";
+            this.button2.UseVisualStyleBackColor = true;
             // 
             // QuanLyLopHoc
             // 
@@ -879,6 +891,7 @@
             this.tab.ResumeLayout(false);
             this.tab1.ResumeLayout(false);
             this.tab1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.danhsachuserroledg)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.danhsachroledg)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.danhsachuserdg)).EndInit();
             this.tabPage2.ResumeLayout(false);
@@ -906,7 +919,7 @@
             this.panel2.PerformLayout();
             this.doituongcanthuquyengb.ResumeLayout(false);
             this.doituongcanthuquyengb.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.danhsachuserroledg)).EndInit();
+            this.tabPage5.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -984,5 +997,6 @@
         private System.Windows.Forms.DataGridView danhsachroledg;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.DataGridView danhsachuserroledg;
+        private System.Windows.Forms.Button button2;
     }
 }
